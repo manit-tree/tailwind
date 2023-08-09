@@ -1,4 +1,4 @@
-# A starting template for learning how to use TailwindCSS
+# A starting template for learning TailwindCSS
 
 This template use Lieve Server + Tailwind
 
