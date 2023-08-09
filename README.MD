@@ -1,6 +1,6 @@
 # A starting template for learning TailwindCSS
 
-This template use Lieve Server + Tailwind
+This template use Live Server + Tailwind
 
 ## After Download
 
